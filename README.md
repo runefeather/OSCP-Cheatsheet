@@ -1,5 +1,6 @@
 # Useful OSCP Commands
-The document below contains a list of useful OSCP commands, split into the following sections: 
+(Migrated from gdrive, version 1.2)  
+This document contains a list of useful OSCP commands, split into the following sections: 
 
 - Ports and Operations
 - Netcat
